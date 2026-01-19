@@ -5,8 +5,7 @@ A simple React movie finder app built with **Vite + React** that lets users sear
 ---
 
 ## 📸 Preview
-
-![Movie App Preview](preview.png)
+<img src="https://raw.githubusercontent.com/sahil-coder-2070/movie-app/refs/heads/main/public/stage-1768141462162.webp"> 
 
 ---
 
